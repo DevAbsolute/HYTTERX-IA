@@ -1,0 +1,6 @@
+{
+  "name": "Hytterx IA — Creador de UI para Roblox Studio",
+  "description": "Asistente inteligente que convierte descripciones en interfaces completas de Roblox: Mockup 16:9, Preview interactivo 1280x720 y código Luau listo para la barra de comandos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
